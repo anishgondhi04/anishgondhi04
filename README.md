@@ -33,10 +33,3 @@
 <br />
 #
 
- 
-
-### 📊 Stats
-
- 
-
-![Anish's GitHub stats](https://github-readme-stats.vercel.app/api?username=anishgondhi04&show_icons=true&theme=gr
