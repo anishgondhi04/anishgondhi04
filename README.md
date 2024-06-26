@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Anish Gondhi</h1>
 <h3 align="center">A passionate Software Developer</h3>
 
-- 🌱 I’m currently learning **Advance Networks and Database Systems**
+- 🌱 I’m currently learning **MERN Stack**
 
 - 📫 How to reach me **Anish.Gondhi@dal.ca**
 
