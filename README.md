@@ -4,17 +4,12 @@
   <img src="https://komarev.com/ghpvc/?username=anishgondhi04&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<h3 align="center">A Passionate Full Stack Software Developer</h3>
+<h3 align="center">Software Engineer - TypeScript, Python and Go
+Passionate about building distributed software systems.</h3>
 
 <div align="center">
   <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="380" alt="Coding">
 </div>
-
-<br>
-
-- 🌱 Currently mastering **MERN Stack** & Modern Web Technologies
-- 💡 Building scalable and user-friendly applications
-- 📫 Reach me at **Anish.Gondhi@dal.ca**
 
 ---
 
