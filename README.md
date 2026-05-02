@@ -1,49 +1,62 @@
 <h1 align="center">Hi 👋, I'm Anish Gondhi</h1>
-<h3 align="center">A passionate Software Developer</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
-- 🌱 I’m currently learning **MERN Stack**
-- 📫 How to reach me **Anish.Gondhi@dal.ca**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-    <a href="https://www.linkedin.com/in/anish-gondhi/" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-    </a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=anishgondhi04&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-    </a>
-    <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-    </a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-    </a>
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-    </a>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-    </a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-    </a>
-    <a href="https://redux.js.org" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
-    </a>
-    <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> 
-    </a>
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
-    </a>
+<h3 align="center">A Passionate Full Stack Software Developer</h3>
+
+<div align="center">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="380" alt="Coding">
+</div>
+
+<br>
+
+- 🌱 Currently mastering **MERN Stack** & Modern Web Technologies
+- 💡 Building scalable and user-friendly applications
+- 📫 Reach me at **Anish.Gondhi@dal.ca**
+
+---
+
+### Connect with me:
+<p align="center">
+  <a href="https://www.linkedin.com/in/anish-gondhi/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="35" width="35" />
+  </a>
+  <!-- Add more social links here if you have them -->
 </p>
 
-<p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anishgondhi04&show_icons=true&locale=en&layout=compact" alt="anishgondhi04" />
+---
+
+### Languages & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,react,redux,nextjs,tailwind,nodejs,express,mongodb,mysql,python,java,c,selenium,git,github,vscode" />
 </p>
+
+---
+
+### GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anishgondhi04&show_icons=true&theme=tokyonight&hide_border=true" alt="Anish's GitHub Stats" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anishgondhi04&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anishgondhi04&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+### Currently Exploring
+- Advanced React Patterns & System Design
+- Full Stack Application Performance Optimization
+
+---
+
+*“Code is like humor. When you have to explain it, it’s bad.”*
+
+---
+
+**Thanks for visiting!** Feel free to explore my repositories ✨
