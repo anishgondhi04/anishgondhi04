@@ -4,7 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=anishgondhi04&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<h3 align="center">Software Engineer - TypeScript, Python and Go
+<h3 align="center">Software Engineer - TypeScript, Python and Go <br>
 Passionate about building distributed software systems.</h3>
 
 <div align="center">
