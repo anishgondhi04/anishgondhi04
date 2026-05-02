@@ -34,13 +34,10 @@ Passionate about building distributed software systems.</h3>
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anishgondhi04&show_icons=true&theme=tokyonight&hide_border=true" alt="Anish's GitHub Stats" height="170" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anishgondhi04&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anishgondhi04&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+
 
 ---
 
